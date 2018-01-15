@@ -1,3 +1,3 @@
-# projector clock
+# projector aquarium
 
-This app will show a clock on Lumos
+This app will show a relaxing sea environment.
