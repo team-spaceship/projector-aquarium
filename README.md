@@ -1,3 +1,3 @@
 # projector aquarium
 
-This app will show a relaxing sea environment.
+This app will show a relaxing aquarium environment.
